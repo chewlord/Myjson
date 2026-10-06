@@ -1,0 +1,31 @@
+{
+  "name": "GFS Catalog-folder",
+  "packages": [
+    {
+      "titleId": "PPSA29035",
+      "title": "Forgive Me Father 2",
+      "version": "2.10",
+      "sizeBytes": 8912057139,
+      "posterUrl": "blob:https://imgur.com/a12ec67c-880c-4fc6-afc0-1679c2944cf5",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://gofile.io/d/lSgdiVsZ"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07867",
+      "title": "Forever Skies",
+      "version": "2.10",
+      "sizeBytes": 17179869184,
+      "posterUrl": "https://i.imgur.com/pYIuhPD.jpeg",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://gofile.io/d/Id7hwkiS"
+        }
+      ]
+    }
+  ]
+}
